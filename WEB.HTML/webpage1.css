@@ -1,0 +1,33 @@
+
+.button-youtube{
+    background-color: rgb(186, 10, 10);
+    border-radius: 2px;
+    background-size: 2px;
+    height: 36px;
+    width: 150px;
+    color: white; 
+    border: none;
+    cursor: pointer;
+    margin-left: 200px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+.button-youtube:hover {
+    opacity: 0.8;
+    transition: 0.5s;
+} 
+.button-youtube:active {
+    background-color: blue;
+    opacity: 0.5;
+    transition: 0.5s;
+
+}
+
+  .para-youtube{
+        font-family: Arial;
+        font-size: 20px;
+        display: inline-block;
+        
+
+
+    }
